@@ -1,0 +1,34 @@
+books
+The First 20 Hours: How to Learn Anything . . . Fast! by Josh Kaufma
+
+
+links:
+
+http://karpathy.github.io/neuralnets/
+
+https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
+
+https://hackernoon.com/finding-the-genre-of-a-song-with-deep-learning-da8f59a61194
+
+https://hci.stanford.edu/winograd/shrdlu/
+
+https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition
+
+https://blog.webkid.io/neural-networks-in-javascript/
+
+https://www.youtube.com/watch?v=T0r-uCXvDzQ
+
+v=N4mEzFDjqtA (python)
+
+v=QJoa0JYaX1l (backprop)
+
+v=UeheTiBJ0lo&t=2s (keras)
+
+https://intoli.com/tags/javascript/
+
+https://js.tensorflow.org/tutorials/tfjs-layers-for-keras-users.html
+
+http://www.deeplearningbook.org/
+
+
+
